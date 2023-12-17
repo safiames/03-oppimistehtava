@@ -1,6 +1,7 @@
 {
   "name": "03-part",
   "private": true,
+  "homepage": "https://safiames.github.io/03-oppimistehtava",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
